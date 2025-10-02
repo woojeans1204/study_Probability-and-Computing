@@ -2,3 +2,5 @@
 25-2 공학수학2
 
 Mitzenmacher, M., & Upfal, E. (2017). Probability and computing: Randomization and probabilistic techniques in algorithms and data analysis. Cambridge university press.
+
+문제풀이 LaTex 작성
